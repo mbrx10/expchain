@@ -1,0 +1,7 @@
+[
+    {
+        "address": "0x123...abc",
+        "privateKey": "your-private-key-here",
+        "mnemonic": "your twelve word mnemonic phrase goes here"
+    }
+]

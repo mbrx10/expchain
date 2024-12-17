@@ -1,0 +1,7 @@
+{
+    "name": "Example Token",
+    "symbol": "EXT",
+    "decimals": 18,
+    "totalSupply": "1000000000000000000000000",
+    "abi": []
+}
